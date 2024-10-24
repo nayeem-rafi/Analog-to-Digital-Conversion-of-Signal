@@ -48,6 +48,7 @@ In the final step, the binary encoded signal is plotted as a digital waveform. T
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f021a117-4940-4608-9608-3dce72e5cd2c", width="620">
 </p>
+
 ## How to Run the Code:
 1. Install MATLAB on your system.
 2. Open the MATLAB editor and copy the provided code.
