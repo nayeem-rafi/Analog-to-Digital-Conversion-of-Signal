@@ -1,5 +1,6 @@
 # Analog to Digital Signal Conversion
 By [Naimur Rahman](https://github.com/nayeem-rafi)
+## [Click for Files](https://drive.google.com/drive/folders/1aYsiQ6l6xobzYM8NmtJ5ZH6Zgu7BMiFH?usp=drive_link)
 
 ## Introduction:
 This MATLAB code demonstrates the process of analog-to-digital conversion (ADC) through three key stages: **sampling**, **quantization**, and **digital encoding**. It visualizes how a continuous sine wave is sampled, quantized, and then converted into a digital binary representation. The goal is to demonstrate fundamental digital signal processing concepts that are critical in various real-world applications such as audio processing, telecommunications, and data transmission.
